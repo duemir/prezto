@@ -35,7 +35,9 @@ zstyle ':prezto:load' pmodule \
   'prompt' \
   'osx' \
   'haskell' \
-  'git'
+  'git' \
+  'archive' \
+  'homebrew'
 
 #
 # Editor
