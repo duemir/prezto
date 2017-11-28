@@ -37,7 +37,9 @@ zstyle ':prezto:load' pmodule \
   'haskell' \
   'git' \
   'archive' \
-  'homebrew'
+  'homebrew' \
+  'command-not-found' \
+  'docker'
 
 #
 # Autosuggestions
