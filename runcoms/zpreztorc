@@ -36,12 +36,11 @@ zstyle ':prezto:load' pmodule \
   'utility' \
   'completion' \
   'prompt' \
-  'osx' \
-  'haskell' \
-  'git' \
   'archive' \
+  'osx' \
   'homebrew' \
   'command-not-found' \
+  'git' \
   'docker'
 
 #
